@@ -1,0 +1,4 @@
+borrower_id,name,language,city,product,emi_amount,overdue_days,due_date,risk_band,last_outcome,phone
+BRW001,Ramesh Kumar,Hindi,Lucknow,Two-wheeler loan,4850,7,2026-06-23,Medium,No answer,+91-98XXXXXX11
+BRW002,Asha Patil,Marathi/Hinglish,Pune,Personal loan,7200,3,2026-06-27,Low,Callback requested,+91-98XXXXXX22
+BRW003,Imran Shaikh,Hindi/Hinglish,Bhopal,Consumer durable loan,2650,15,2026-06-15,High,Broken promise-to-pay,+91-98XXXXXX33
